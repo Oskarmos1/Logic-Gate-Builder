@@ -1,0 +1,46 @@
+[
+  {
+    "gateType": "SWITCH",
+    "gateName": "SWITCH0",
+    "minterms": "",
+    "inputs": []
+  },
+  {
+    "gateType": "SWITCH",
+    "gateName": "SWITCH1",
+    "minterms": "",
+    "inputs": []
+  },
+  {
+    "gateType": "SWITCH",
+    "gateName": "SWITCH2",
+    "minterms": "",
+    "inputs": []
+  },
+  {
+    "gateType": "OR",
+    "gateName": "OR3",
+    "minterms": "",
+    "inputs": [
+      "SWITCH0",
+      "SWITCH1"
+    ]
+  },
+  {
+    "gateType": "AND",
+    "gateName": "AND4",
+    "minterms": "",
+    "inputs": [
+      "OR3",
+      "SWITCH2"
+    ]
+  },
+  {
+    "gateType": "LAMP",
+    "gateName": "LAMP8",
+    "minterms": "",
+    "inputs": [
+      "AND4"
+    ]
+  }
+]

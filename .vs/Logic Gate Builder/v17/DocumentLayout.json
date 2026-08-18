@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\functionality classes\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\functionality classes\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\logic gate classes\\nand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\logic gate classes\\nand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\ui classes\\educational pages\\information menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\ui classes\\educational pages\\information menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\ui classes\\educationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\ui classes\\educationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\ui classes\\educationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\ui classes\\educationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\ui classes\\gatecomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\ui classes\\gatecomp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\ui classes\\circuitcostcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\ui classes\\circuitcostcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\functionality classes\\logicgatefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\functionality classes\\logicgatefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\logic gate builder\\ui classes\\circuitcostcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\ui classes\\circuitcostcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|c:\\users\\oskar\\onedrive\\desktop\\home\\programming\\logic gate builder\\the program\\lgb\\logic gate builder\\functionality classes\\graphalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B280992-8B1F-4600-A120-1068B9E2626C}|Logic Gate Builder\\Logic Gate Builder.csproj|solutionrelative:logic gate builder\\functionality classes\\graphalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NAND.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\Logic Gate Classes\\NAND.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\Logic Gate Classes\\NAND.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\Logic Gate Classes\\NAND.cs",
+              "RelativeToolTip": "Logic Gate Builder\\Logic Gate Classes\\NAND.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:17:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Information Menu.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\Educational Pages\\Information Menu.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\UI Classes\\Educational Pages\\Information Menu.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\Educational Pages\\Information Menu.cs",
+              "RelativeToolTip": "Logic Gate Builder\\UI Classes\\Educational Pages\\Information Menu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:23:27.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EducationForm.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\EducationForm.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\UI Classes\\EducationForm.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\EducationForm.cs",
+              "RelativeToolTip": "Logic Gate Builder\\UI Classes\\EducationForm.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:23:06.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EducationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\EducationForm.Designer.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\UI Classes\\EducationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\EducationForm.Designer.cs",
+              "RelativeToolTip": "Logic Gate Builder\\UI Classes\\EducationForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:23:03.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GateComp.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\GateComp.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\UI Classes\\GateComp.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\GateComp.cs",
+              "RelativeToolTip": "Logic Gate Builder\\UI Classes\\GateComp.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAkwFIBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:40:50.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CircuitCostCalc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\CircuitCostCalc.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\UI Classes\\CircuitCostCalc.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\School\\PSC\\CS\\NEA\\THE PROGRAM\\LGB\\Logic Gate Builder\\UI Classes\\CircuitCostCalc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\School\\PSC\\CS\\NEA\\THE PROGRAM\\LGB\\Logic Gate Builder\\UI Classes\\CircuitCostCalc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:44:15.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogicGateFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\Functionality Classes\\LogicGateFunctions.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\Functionality Classes\\LogicGateFunctions.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\Functionality Classes\\LogicGateFunctions.cs",
+              "RelativeToolTip": "Logic Gate Builder\\Functionality Classes\\LogicGateFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:02:18.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CircuitCostCalc.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\CircuitCostCalc.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\UI Classes\\CircuitCostCalc.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\UI Classes\\CircuitCostCalc.cs",
+              "RelativeToolTip": "Logic Gate Builder\\UI Classes\\CircuitCostCalc.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:44:20.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GraphAlgorithms.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\Functionality Classes\\GraphAlgorithms.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\Functionality Classes\\GraphAlgorithms.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\Functionality Classes\\GraphAlgorithms.cs",
+              "RelativeToolTip": "Logic Gate Builder\\Functionality Classes\\GraphAlgorithms.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAOcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:17:04.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileHandling.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\Functionality Classes\\FileHandling.cs",
+              "RelativeDocumentMoniker": "Logic Gate Builder\\Functionality Classes\\FileHandling.cs",
+              "ToolTip": "C:\\Users\\oskar\\OneDrive\\Desktop\\Home\\Programming\\Logic Gate Builder\\The program\\LGB\\Logic Gate Builder\\Functionality Classes\\FileHandling.cs",
+              "RelativeToolTip": "Logic Gate Builder\\Functionality Classes\\FileHandling.cs",
+              "ViewState": "AgIAAGYCAAAAAAAAAAAcwHgCAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:23:39.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

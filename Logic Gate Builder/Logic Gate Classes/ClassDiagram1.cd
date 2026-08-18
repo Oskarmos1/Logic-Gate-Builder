@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logic_Gate_Builder.UI_Classes.Command_Classes.AddConnection" BaseTypeListCollapsed="true">
+    <Position X="35.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEAIAAAAAAAAEBAEAAAAAAAAgAAgEAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Command Classes\AddConnection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Command_Classes.AddGate" BaseTypeListCollapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEAIAIAAAAAAEAAAAAAAAAAAAAAkAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Command Classes\AddGate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Command_Classes.DeleteGate" BaseTypeListCollapsed="true">
+    <Position X="33.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEAIAIAAAAAAEAAAAAAAAAAAAAAkAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Command Classes\DeleteGate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Command_Classes.CircuitCostCalcGateTInfo">
+    <Position X="28.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAIAAAAAAARABgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\CircuitCostCalcGateTInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.AndInfo">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\AndInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.BooleanAlgebraInfo">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\BooleanAlgebraInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.Exam">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.ExamReviewPage">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\ExamReviewPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.ExamSetup">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\ExamSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.Information_Menu">
+    <Position X="21.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\Information Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.NANDInfo">
+    <Position X="30.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\NANDInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.NewNotificationForm">
+    <Position X="33.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAgCAEAAAAAACAAAACAACAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\NewNotificationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.NorInfo">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\NorInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.NotificationComponent">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\NotificationComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.NotificationManager">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAAAACAAAgCAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\NotificationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.NotificationPref">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAQAEAEAADAAAAAAACAAAAAAGAABEACCAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\NotificationPref.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.NotInfo">
+    <Position X="18" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\NotInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.ORInfo">
+    <Position X="19.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\ORInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.ProgressBarForm">
+    <Position X="26.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>UI Classes\Educational Pages\ProgressBarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.QA">
+    <Position X="28.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACIAAAAAAAAAACAAABAAAAEAAAAQAAEAAAAAAg=</HashCode>
+      <FileName>UI Classes\Educational Pages\QA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.RandomQuestion">
+    <Position X="32" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\RandomQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.TruthTableInfo">
+    <Position X="19.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\TruthTableInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.VideoForm">
+    <Position X="33.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAAAAACAAAECAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>UI Classes\Educational Pages\VideoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.XnorInfo">
+    <Position X="12.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\XnorInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Educational_Pages.XORInfo">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\XORInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskSchedulerHelper">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAABAAAAAA=</HashCode>
+      <FileName>UI Classes\Educational Pages\TaskScheduleHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CanvasPanel">
+    <Position X="25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAAQAAAAAQABAAAAAIIAAAAgAQAAABAAEAAAA=</HashCode>
+      <FileName>UI Classes\CustomPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.CircuitCostCalc">
+    <Position X="26.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABCAAAAUAgACAAAACAAgIAAAAAAAgAAACAAA=</HashCode>
+      <FileName>UI Classes\CircuitCostCalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.Connection">
+    <Position X="30.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAABgAAAAABAAAAIAQACAAAACAAAAAAEoAA=</HashCode>
+      <FileName>UI Classes\Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.EducationForm">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAGATAAIAAQAECBBAECAACABCQAAgggRKAKAAI=</HashCode>
+      <FileName>UI Classes\EducationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.GateComp">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQSAcIAwgCBAEwAEAATBFACKAQQAAACAAUAyAAEIAAo=</HashCode>
+      <FileName>UI Classes\GateComp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.GateLocatorForm">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAgACAAABAQAAiAAAgCQIAAAAAAAAACAAICgAQ=</HashCode>
+      <FileName>UI Classes\GateLocatorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.TruthTableForm">
+    <Position X="7.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBCAAACAAAEAAAACABAACAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>UI Classes\TruthTableForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.UI_Classes.ViewPanel">
+    <Position X="35.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAIAA=</HashCode>
+      <FileName>UI Classes\ViewPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.MainForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9QSJD6yoQ2OAhITIBCrEmisKiAp2oAcEDyAfRbBUqAA=</HashCode>
+      <FileName>UI Classes\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.MyList&lt;T&gt;">
+    <Position X="28.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQABEAAAACFAAAAAAAAAAAAAoAAAAAgACAAA=</HashCode>
+      <FileName>Data Structure Classes\List.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Queue&lt;T&gt;">
+    <Position X="30.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBAAAABAAAAAEAAAAAAAAAAAABAAAQAA=</HashCode>
+      <FileName>Data Structure Classes\Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Stack&lt;T&gt;">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAgAAEAAAACAAIAIAAAAAAAAAAAAAICAAAQAA=</HashCode>
+      <FileName>Data Structure Classes\Stack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.AND">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\AND.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Gate">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAEQEAEAAiAAIABIAQAEIAEACAABgbBAAAAEAQQAAAA=</HashCode>
+      <FileName>Logic Gate Classes\Gate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Logic_Gate_Builder.InputNode">
+    <Position X="23.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAAAAAAAAAAEAAAAABGAAgAAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>Logic Gate Classes\InputNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Lamp" BaseTypeListCollapsed="true">
+    <Position X="25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAEQEAEAAiAAIABIAQAEAAEAAAABgbBAAAAEAQAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\Lamp.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Logic_Gate_Builder.NAND">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\NAND.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.NOR">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\NOR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.NOT">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAEAAAAAIABIAAAAIAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\NOT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.NXOR">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\NXOR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.OR">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\OR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.OutputNode">
+    <Position X="21.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAAAgAAAAAIAAAAAAAAIBgAAAAIAAAAEQAAAEA=</HashCode>
+      <FileName>Logic Gate Classes\OutputNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Switch" BaseTypeListCollapsed="true">
+    <Position X="35.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQEAAAAiAAIABAAQAEAAEACAARgSBAAAAEAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\Switch.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Logic_Gate_Builder.XOR">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\XOR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Program">
+    <Position X="23.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Functionality_Classes.BinaryFunctions">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACAACAAAIAAAAAAAAAIAAQIAAgAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Functionality Classes\BinaryFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Functionality_Classes.FileHandling">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIAAAAAAABAAAKAAAAAIAAAAQAAAAMBAAAAgACg=</HashCode>
+      <FileName>Functionality Classes\FileHandling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Functionality_Classes.GraphAlgorithms">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAIAAAAAAAAAAAgAAAAQAAAA=</HashCode>
+      <FileName>Functionality Classes\GraphAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Functionality_Classes.LogicGateFunctions">
+    <Position X="26.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAEAAAAAAAAAAAgCAAAAAQAAAIA=</HashCode>
+      <FileName>Functionality Classes\LogicGateFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Functionality_Classes.NotificationsManager">
+    <Position X="16.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Functionality Classes\NotificationsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Gate_Builder.Logic_Gate_Classes.CustomGate" BaseTypeListCollapsed="true">
+    <Position X="32" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAEQEAEAAiAAIABIAQAEIAEACAABgaBAAACEAQQAAAA=</HashCode>
+      <FileName>Logic Gate Classes\CustomGate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Logic_Gate_Builder.Logic_Gate_Classes.GateData">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAQAAAAAAAAAAADAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\GateData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Logic_Gate_Builder.UI_Classes.Command_Classes.ICommand">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEAAAAAAAAAAEAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>UI Classes\Command Classes\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IGate">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAIABAAAAEAAEAAAABgQBAAAAEAAAAAAA=</HashCode>
+      <FileName>Logic Gate Classes\IGate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGateData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GateData>
+    <GateType>SWITCH</GateType>
+    <GateName>SWITCH0</GateName>
+    <Minterms />
+    <Inputs />
+  </GateData>
+  <GateData>
+    <GateType>SWITCH</GateType>
+    <GateName>SWITCH1</GateName>
+    <Minterms />
+    <Inputs />
+  </GateData>
+  <GateData>
+    <GateType>SWITCH</GateType>
+    <GateName>SWITCH2</GateName>
+    <Minterms />
+    <Inputs />
+  </GateData>
+  <GateData>
+    <GateType>OR</GateType>
+    <GateName>OR3</GateName>
+    <Minterms />
+    <Inputs>
+      <Input>SWITCH0</Input>
+      <Input>SWITCH1</Input>
+    </Inputs>
+  </GateData>
+  <GateData>
+    <GateType>AND</GateType>
+    <GateName>AND4</GateName>
+    <Minterms />
+    <Inputs>
+      <Input>OR3</Input>
+      <Input>SWITCH2</Input>
+    </Inputs>
+  </GateData>
+  <GateData>
+    <GateType>LAMP</GateType>
+    <GateName>LAMP8</GateName>
+    <Minterms />
+    <Inputs>
+      <Input>AND4</Input>
+    </Inputs>
+  </GateData>
+</ArrayOfGateData>

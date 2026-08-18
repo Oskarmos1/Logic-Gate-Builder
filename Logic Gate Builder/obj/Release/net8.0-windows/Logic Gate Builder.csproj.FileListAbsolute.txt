@@ -1,0 +1,73 @@
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.exe
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.deps.json
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.runtimeconfig.json
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.dll
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.pdb
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\bin\Release\net8.0-windows\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.csproj.AssemblyReference.cache
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.CircuitCostCalc.resources
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.GateComp.resources
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.GateLocatorForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.MainForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.TruthTableForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.csproj.GenerateResource.cache
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.AssemblyInfoInputs.cache
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.AssemblyInfo.cs
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.csproj.CoreCompileInputs.cache
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Ga.7146A294.Up2Date
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.dll
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\refint\Logic Gate Builder.dll
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.pdb
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.genruntimeconfig.cache
+C:\Users\oskar\OneDrive\Desktop\School\Peter Symonds\Computer Science\NEA Folder\Program - App Clean Copy\Logic Gate Builder\Logic Gate Builder\obj\Release\net8.0-windows\ref\Logic Gate Builder.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.exe
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.deps.json
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.runtimeconfig.json
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\Logic Gate Builder.pdb
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\Interop.WMPLib.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\bin\Release\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.csproj.AssemblyReference.cache
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Interop.WMPLib.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.csproj.ResolveComReference.cache
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.CircuitCostCalc.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.AndInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.BooleanAlgebraInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.Exam.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.ExamReviewPage.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.ExamSetup.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.Information_Menu.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.NANDInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.NewNotificationForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.NorInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.NotificationComponent.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.NotificationManager.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.NotInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.ORInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.ProgressBarForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.RandomQuestion.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.TruthTableInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.VideoForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.XnorInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.Educational_Pages.XORInfo.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.EducationForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.GateComp.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.GateLocatorForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.MainForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic_Gate_Builder.UI_Classes.TruthTableForm.resources
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.csproj.GenerateResource.cache
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.AssemblyInfoInputs.cache
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.AssemblyInfo.cs
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.csproj.CoreCompileInputs.cache
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Ga.7146A294.Up2Date
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\refint\Logic Gate Builder.dll
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.pdb
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\Logic Gate Builder.genruntimeconfig.cache
+C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\obj\Release\net8.0-windows\ref\Logic Gate Builder.dll

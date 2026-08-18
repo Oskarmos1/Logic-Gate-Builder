@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\oskar\OneDrive\Desktop\School\PSC\CS\NEA\THE PROGRAM\LGB\Logic Gate Builder\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="UI Classes\CircuitCostCalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\CustomPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\AndInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\BooleanAlgebraInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\Exam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\ExamReviewPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\ExamSetup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\Information Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\NANDInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\NewNotificationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\NorInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\NotificationComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\NotificationManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\NotInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\ORInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\ProgressBarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\RandomQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\TruthTableInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\VideoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\XnorInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\Educational Pages\XORInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\EducationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\GateComp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI Classes\GateLocatorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\MainFormSettersGetters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\TruthTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI Classes\ViewPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
